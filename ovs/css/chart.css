@@ -1,0 +1,10 @@
+html,body,#container {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+  }
+  tspan[x='117.46875']{
+    font-size: 25px;
+    font-weight: bold;
+  }
